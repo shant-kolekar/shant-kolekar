@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shant-kolekar
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently master student studying in USA
+- 🌱 I’m currently working as an intern in Data Science Domain.
 - 💞️ I’m looking to collaborate on projects to expand my knowledge and data analytics skills.
 - 📫 Please feel free to contact.
 
