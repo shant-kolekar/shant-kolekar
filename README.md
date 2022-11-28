@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shant-kolekar
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently pursuing masters in Data Science Domain.
-- 💞️ I’m looking to collaborate on projects to expand my knowledge and data analytics skills.
-- 📫 Please feel free to contact.
+- 🎓 I’m currently pursuing masters in Data Science Domain.
+- 🤝 I’m looking to collaborate on projects to expand my knowledge and data analytics skills.
+- 📧 Please feel free to contact.
 
 <!---
 shant-kolekar/shant-kolekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
